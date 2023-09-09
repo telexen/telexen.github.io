@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="51.507343mm"
+   height="14.459769mm"
+   viewBox="0 0 51.507343 14.459769"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="logos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="247.48737"
+     inkscape:cy="554.63687"
+     inkscape:window-width="1620"
+     inkscape:window-height="893"
+     inkscape:window-x="169"
+     inkscape:window-y="127"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.642297,-105.43176)">
+    <g
+       id="g6">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46666px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#000000;stroke-width:2"
+         x="67.07132"
+         y="115.84077"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#000000;stroke-width:2"
+           x="67.07132"
+           y="115.84077">telexen</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Noto Sans Glagolitic';-inkscape-font-specification:'Noto Sans Glagolitic';letter-spacing:0.645583px;fill:#000000;stroke:none;stroke-width:0.135232;stroke-dasharray:none"
+         x="68.395134"
+         y="119.7836"
+         id="text19"><tspan
+           sodipodi:role="line"
+           style="font-size:2.11667px;letter-spacing:0.645583px;fill:#000000;stroke:none;stroke-width:0.135232"
+           x="68.395134"
+           y="119.7836"
+           dx="0 0 0 0 0 0 0.23999999"
+           id="tspan20">SIEMPRE CONECTADO</tspan></text>
+      <path
+         d="m 59.542395,113.99283 -2.72691,-3.55439 c -0.136631,-0.18166 -0.316006,-0.30954 -0.604931,-0.2995 h -5.368671 v -1.39821 h 6.004285 c 0.662981,0.0647 1.083067,0.37356 1.480406,0.87739 l 2.223596,3.01674 m -6.579366,-2.49592 v 5.94497 c 0,0.89303 0.120597,1.46669 0.36178,1.72091 0.247718,0.2543 0.746379,0.38134 1.496015,0.38134 0.303561,-0.0171 0.546059,-0.1544 0.750071,-0.36712 1.401415,-1.58644 5.667234,-7.56357 6.902116,-9.07933 h 2.121801 c -8.396038,11.1578 -7.044206,9.32041 -7.44412,9.86292 -0.66405,0.80495 -1.349396,1.06203 -2.329868,1.08931 -1.388457,0 -2.346689,-0.25743 -2.874693,-0.77246 -0.528006,-0.52148 -0.79201,-1.46669 -0.79201,-2.83557 v -5.94497 m 0,-1.39821 v -3.10939 h 1.808908 v 3.10939 m 7.626355,5.31766 4.210763,5.63252 h -2.121799 l -3.055479,-4.35122"
+         id="path1"
+         style="font-size:7.05556px;font-family:'Noto Sans Gujarati UI';-inkscape-font-specification:'Noto Sans Gujarati UI';fill:none;stroke:#ff0000;stroke-width:0.399169;stroke-dasharray:none"
+         aria-label="tx"
+         sodipodi:nodetypes="cccccccccsccccccccsccccccccc" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+html,
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1000px;
+    height: 100%;
+    margin: auto;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    border: 1px solid rgb(230, 230, 230);
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    border: 2px solid rgb(230, 230, 230);
+    background: rgb(255, 255, 255);
+}
+
+.wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Create a top navigation bar with a black background color  */
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    position: relative;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #000000;
+    padding: 10pt;
+    text-align: center;
+    font-size: 17px;
+    text-decoration: none;
+    display: table-cell;
+    height: 40px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.logo {
+    float: left;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* Create a right-aligned (split) link inside the navigation bar */
+.topnav a.split {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);    
+}
+
+.header {
+    background: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer {
+    background: rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.header-elem {
+    flex-grow: 3;
+}
+
+.content {
+    flex: 1;
+    overflow: auto;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 10pt;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10pt;
+    padding: 20px;
+}

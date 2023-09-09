@@ -1,11 +1,36 @@
+<!DOCTYPE html>
+<html>
+
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="styles/style.css" rel="stylesheet">
     <title>TELEXEN</title>
 </head>
 
 <body>
-    <h1>TELEXEN</h1>
-    <h2>Monitores Remotos</h2>
-    <a href="example.html" target="_blank">Click here to open Example.html</a>
+    <div class="wrapper">
+        <div class="topnav">
+            <a href="#home" class="logo" onclick='loadHtml(event, "pages/home.html", "content")'>
+                <img src="img/logo.svg" style="height: 40px;">
+            </a>
+            <div style="float: right">
+                <a href="#products" onclick='loadHtml(event, "pages/products.html", "content")'>Productos</a>
+                <a href="#services" onclick='loadHtml(event, "pages/services.html", "content")'>Servicios</a>
+                <a href="#contact" onclick='loadHtml(event, "pages/contact.html", "content")'>Contacto</a>
+                <a href="#login" class="split" onclick='loadHtml(event, "pages/login.html", "content")'>
+                    <img src="img/avatar.svg" style="height: 30px;">
+                </a>
+            </div>
+        </div>
+
+        <div id = "content" class="content"></div>
+
+        <div class="footer">
+            © telexen inc. derechos reservados 2023.
+        </div>
+    </div>
 </body>
+<script src="logic/main.js"></script>
+
+</html>
